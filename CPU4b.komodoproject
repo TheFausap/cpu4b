@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="11f9c225-0c29-4a93-966e-efe38381b43a" kpf_version="5" name="CPU4b.komodoproject">
+<preference-set idref="11f9c225-0c29-4a93-966e-efe38381b43a" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+  <string id="userEnvironmentStartupOverride">MANPATH=C:\Users\fausap\AppData\Local\ActiveState\cache\29de99c9\man
+PATH=C:\Users\fausap\AppData\Local\activestate\cache\29de99c9\exec
+</string>
+</preference-set>
+</project>
